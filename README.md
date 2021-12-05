@@ -9,6 +9,10 @@
 
 -Développent d’une Single Page Application en ReactJS pour consommer les services d’API (les services du model ML).
 
+# Architecte de Projet
+![arch](https://user-images.githubusercontent.com/86019502/144763406-6fba7255-1dac-4f92-adf3-6a61c0b34ab7.png)
+
+
 # Project_ScreenShots
 ## MongoDB
 <img width="959" alt="mongoDB" src="https://user-images.githubusercontent.com/86019502/144761602-4c7cbf05-aa88-47b3-ba6d-4f12132cf05f.png">
@@ -19,9 +23,6 @@
 <img width="960" alt="graphQL" src="https://user-images.githubusercontent.com/86019502/144761751-dd55b8e8-2ddc-4861-ad8a-b3706118cfeb.png">
 # React
 <img width="960" alt="frontend" src="https://user-images.githubusercontent.com/86019502/144761777-2761c2f0-f9ad-4b17-a44f-2b7f61b96c40.PNG">
-
-
-
 
 # Referances
 https://github.com/deviantony/docker-elk
