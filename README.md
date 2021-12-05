@@ -8,3 +8,6 @@
 -Développent d’une API en Flaks pour utiliser ce model ML.
 
 -Développent d’une Single Page Application en ReactJS pour consommer les services d’API (les services du model ML).
+
+# Referances
+https://github.com/deviantony/docker-elk
