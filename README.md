@@ -10,11 +10,11 @@
 -Développent d’une Single Page Application en ReactJS pour consommer les services d’API (les services du model ML).
 
 # Architecte de Projet
-![arch](https://user-images.githubusercontent.com/86019502/144763406-6fba7255-1dac-4f92-adf3-6a61c0b34ab7.png)
+![arch](https://user-images.githubusercontent.com/86019502/144763708-6c1d922f-9178-4674-98e5-929fa89176c6.png)
 
 
 # Project_ScreenShots
-## MongoDB
+## MongoDB & Mongo-Express
 <img width="959" alt="mongoDB" src="https://user-images.githubusercontent.com/86019502/144761602-4c7cbf05-aa88-47b3-ba6d-4f12132cf05f.png">
 ## Kibana
 <img width="960" alt="vis2" src="https://user-images.githubusercontent.com/86019502/144761617-7a15e130-5f76-4b92-aec1-63215bd0de51.png">
