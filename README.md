@@ -16,12 +16,15 @@
 # Project_ScreenShots
 ## MongoDB & Mongo-Express
 <img width="959" alt="mongoDB" src="https://user-images.githubusercontent.com/86019502/144761602-4c7cbf05-aa88-47b3-ba6d-4f12132cf05f.png">
+
 ## Kibana
 <img width="960" alt="vis2" src="https://user-images.githubusercontent.com/86019502/144761617-7a15e130-5f76-4b92-aec1-63215bd0de51.png">
 <img width="959" alt="kibana" src="https://user-images.githubusercontent.com/86019502/144761708-0eb3d6e3-48b4-4e34-85ca-c2609acb8166.png">
-# GraphQL
+
+## GraphQL
 <img width="960" alt="graphQL" src="https://user-images.githubusercontent.com/86019502/144761751-dd55b8e8-2ddc-4861-ad8a-b3706118cfeb.png">
-# React
+
+## React
 <img width="960" alt="frontend" src="https://user-images.githubusercontent.com/86019502/144761777-2761c2f0-f9ad-4b17-a44f-2b7f61b96c40.PNG">
 
 # Referances
